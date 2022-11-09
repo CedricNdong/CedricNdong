@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on **Study & Some open source projects**
 - 🌱 I’m currently learning **Server Administration ,Android app and Firebase**
 - 👯 2022 Goals: improuve my skills and study
-- 🧖‍♂️ Hobbies: Football, Mangas, Programming, reading
+- 🧖‍♂️ Hobbies: Football, Mangas, Programming, Travel
 - 💬 Ask me about anything [here]()
 
 **Languages and Tools:**  
