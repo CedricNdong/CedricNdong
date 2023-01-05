@@ -15,11 +15,11 @@
 **About me**
 
 - 👨🏿‍🎓 I’m currently student at **Technische Hochschule Mittelhessen** in **Germany**
-- 🔭 I’m currently working on **Study & Some open source projects**
+- 🔭 I’m currently working on **Study & OpenAi(ChatGPT) & Some open source projects**
 - 🌱 I’m currently learning **Server Administration ,Android app and Firebase**
-- 👯 2022 Goals: improuve my skills and study
+- 👯 2023 Goals: improuve my skills and study
 - 🧖‍♂️ Hobbies: Football, Mangas, Programming, Travel
-- 💬 Ask me about anything [here]()
+- 💬 Ask me about anything [here]<a href="https://thegeekengineer.de/"></a>()
 
 **Languages and Tools:**  
 
