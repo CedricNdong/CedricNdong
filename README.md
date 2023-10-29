@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="500px" height="200px">
+<div align="center">
+  <img width="300px" height="300px" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
 
 ### <div align="center">Hi there 👋, I'm Cedric Ndong,young student and passionate about computer science and software development.</div>
 
@@ -10,7 +13,6 @@
 - 🌱 I’m currently learning **Linux Server Administration, DevOps and Vaadin**
 - 👯 2023 Goals: improuve my skills and study
 - 🧖‍♂️ Hobbies: Football, Mangas, Programming, Travel
-- 💬 Ask me about anything [here]<a href="https://thegeekengineer.de/"></a>()
 
 <br>
 
@@ -88,19 +90,18 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/CedricNdong" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/cedric-ndong-gomo-8915a4235" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
+<a href="https://github.com/CedricNdong" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 <a href="https://twitter.com/NdongGomo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>  
-  
 
-<br/> 
+<br> 
 
 ## Github Stats 
 <table><tr><td valign="top" width="50%">
@@ -120,6 +121,14 @@
 </a>
 
 </p >
+  
+
+<br/> 
+
+## Trophies
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CedricNdong" alt="cedricndong" /></a> </p>
+
   
 
 <br/> 
