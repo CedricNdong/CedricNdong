@@ -39,6 +39,7 @@
 <div align="center">  
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"></code>
+<code><img height="50" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg"></code>
 </div>  
 
