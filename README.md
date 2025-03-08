@@ -15,8 +15,8 @@
 
 - 👨🏿‍🎓 I’m currently student at **Technische Hochschule Mittelhessen** in **Germany**
 - 🔭 I’m currently working at **Intershop Communication AG** as **Software Engineer**
-- 🌱 I’m currently learning **Linux Server Administration, DevOps and Vaadin**
-- 👯 2023 Goals: improuve my skills and study
+- 🌱 I am currently deepening my knowledge of **Linux Server Administration, Spring-Framework DevOps and**
+- 👯 2025 Goals: obtaining certifications for my various skills
 - 🧖‍♂️ Hobbies: Football, Mangas, Programming, Travel
 
 <br>
