@@ -13,9 +13,10 @@
 
 ## About me
 
-- 👨🏿‍🎓 I’m currently student at **Technische Hochschule Mittelhessen** in **Germany**
-- 🔭 I’m currently working at **Intershop Communication AG** as **Software Engineer**
-- 🌱 I’m currently deepening my knowledge of **Linux Server Administration, Spring-Framework DevOps**
+[//]: # (This may be the most platform independent comment)
+[//]: # (- 👨🏿‍🎓 I’m currently student at **Technische Hochschule Mittelhessen** in **Germany**)
+[//]: # (- 🔭 I’m currently working at **Intershop Communication AG** as **Software Engineer**)
+- 🌱 I’m currently deepening my knowledge of **Linux Server Administration, Spring-Framework and DevOps**
 - 👯 2025 Goals: obtaining certifications for my various skills
 - 🧖‍♂️ Hobbies: Football, Mangas, Programming, Travel
 
