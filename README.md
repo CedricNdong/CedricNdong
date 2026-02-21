@@ -8,7 +8,8 @@
 
 <p align='center' style='margin: 16px 4px 8px;'>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I'm+a+young+student+and+passionate+about+computer+science"
- alt="Welcome to my GitHub Profile. I'm a young student and passionate about computer science and software engineering" />
+ alt="Welcome to my GitHub Profile. I'm a Java Fullstack Developer | Spring Boot | Angular | Microservices | REST APIs  
+Building scalable backend systems • Bachelor Computer Science" />
 </p>
 
 ## About me
