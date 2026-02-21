@@ -6,10 +6,18 @@
     Hi there<img src='./wave.gif' height='26' alt='there'>, I'm Cedric Ndong
 </h1>
 
-<p align='center' style='margin: 16px 4px 8px;'>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&multiline=true&width=710&height=70&lines=Welcome+to+my+GitHub+Profile;I'm+a+young+student+and+passionate+about+computer+science"
- alt="Welcome to my GitHub Profile. I'm a Java Fullstack Developer | Spring Boot | Angular | Microservices | REST APIs  
-Building scalable backend systems • Bachelor Computer Science" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&height=90&lines=Welcome+to+my+GitHub+Profile;Java+Fullstack+Developer+%7C+Spring+Boot+%7C+Vaadin;Backend+Engineer+%7C+Microservices+Architecture;REST+APIs+%7C+Docker+%7C+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
 </p>
 
 ## About me
