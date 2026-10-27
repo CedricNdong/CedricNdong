@@ -7,27 +7,39 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&height=90&lines=Welcome+to+my+GitHub+Profile;Java+Fullstack+Developer+%7C+Spring+Boot+%7C+Vaadin;Backend+Engineer+%7C+Microservices+Architecture;REST+APIs+%7C+Docker+%7C+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1200&color=00C2FF&center=true&vCenter=true&width=950&height=90&lines=Welcome+to+my+GitHub+Profile;Java+Developer+%7C+Backend+%26+System+Integration;Spring+Boot+%7C+Spring+Modulith+%7C+Spring+AI;AI-assisted+Development+%7C+Claude+Code+%7C+MCP" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vaadin-00B4F0?style=for-the-badge&logo=vaadin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
-
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
 ## About me
 
-[//]: # (This may be the most platform independent comment)
-[//]: # (- 👨🏿‍🎓 I’m currently student at **Technische Hochschule Mittelhessen** in **Germany**)
-[//]: # (- 🔭 I’m currently working at **Intershop Communication AG** as **Software Engineer**)
-- 🌱 I’m currently deepening my knowledge of **Linux Server Administration, Spring-Framework and DevOps**
-- 👯 2025 Goals: obtaining certifications for my various skills
-- 🧖‍♂️ Hobbies: Football, Mangas, Programming, Travel
+- 💼 **Java Developer** in Germany: backend systems, data migration and system integration (SOAP, REST, OpenAPI) on a document-management platform
+- 🎓 **M.Sc. Computer Science** (part-time) at FernUniversität in Hagen · B.Sc. Computer Science, THM Gießen
+- 🤖 Building with **Spring Boot 4, Spring Modulith and Spring AI**, and with an **agent-based workflow in Claude Code** (sub-agents, hooks, custom skills, MCP)
+- 🌱 Currently exploring: **Model Context Protocol (MCP)**, LLMs in production, modular monoliths
+- 🌐 Portfolio: **[cedric.ndong.de](https://cedric.ndong.de)**
+- 🧖‍♂️ Hobbies: Football, Documentaries, Programming, Travel
+
+<br>
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **GermanExamTrainer** 🔒 | Learning platform for German exams (A1–C1: telc, Goethe, ÖSD) with an offline-capable learner app, a language-school area, an admin portal and its own MCP server | Java 25 · Spring Boot 4 · Spring Modulith · Spring AI · PostgreSQL · Next.js · Playwright |
+| **[springforge-tui](https://github.com/CedricNdong/springforge-tui)** | Terminal app that generates Spring Boot APIs | Java 21 · PicoCLI · GraalVM Native Image · Testcontainers |
+| **[cedric.ndong.de](https://cedric.ndong.de)** 🔒 | My portfolio website with a private admin area (content manager, uptime monitoring, dependency watcher) | Java 21 · Vaadin Flow 25 · Spring Boot 4 · Spring Security (2FA) |
+
+<sub>🔒 private repository: happy to give a walkthrough on request.</sub>
 
 <br>
 
@@ -44,7 +56,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg"></code>
-<code><img height="50" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 </div>
 
@@ -55,9 +67,7 @@
 ### Backend  
 <div align="center">  
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg"></code>
-<code><img height="50" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg"></code>
 </div>  
 
 
@@ -66,7 +76,8 @@
 <div align="center">  
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg"></code>
-<code><img height="50" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="SQL Server"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis"></code>
 </div>
 
 </td><td valign="top" width="33%">
@@ -80,25 +91,25 @@
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions"></code>
 </div>
 
 </td></tr></table>  
 
 <br/> 
 
-## Others Languages,Tools and Technologies:
+## Other Languages, Tools and Technologies:
 <div align="center">
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/c-original.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="50" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original-wordmark.svg" alt="Gradle"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"></code>
 <code><img height="50" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></code>
 </div>
 
 <br>
@@ -110,6 +121,9 @@
 </a> 
 <a href="https://github.com/CedricNdong" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://cedric.ndong.de" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-cedric.ndong.de-%23000000.svg?&style=for-the-badge&logo=googlechrome&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/NdongGomo" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
